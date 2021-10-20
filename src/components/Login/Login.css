@@ -1,0 +1,15 @@
+.login-area{
+    width: 70%;
+    margin:  0 auto;
+}
+.signin-btn{
+    width: 80%;
+    background-image: linear-gradient(to right, #9258f9, #c253db, #dc58c0, #e767aa, #e8799b);
+    color: white;
+    padding: 10px;
+}
+.google-btn{
+    padding: 8px;
+    width: 80%;
+    background: white;
+}

@@ -1,0 +1,38 @@
+.About-us{
+    background-image: url(../../pic/img2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 500px;
+    opacity: 0.9;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.About-us{
+    color: white;
+    font-size: 60px;
+}
+.btnabout{
+    background-image: linear-gradient(to right, #9258f9, #c253db, #dc58c0, #e767aa, #e8799b);
+    width: 180px;
+    text-align: center;
+    padding: 10px 0;
+    border: 1px solid transparent;
+    cursor: pointer;
+    border-radius: 25px;
+    transition: 0.5s all ease;
+    color: #fff;
+    text-decoration: none;
+}
+.img-area img{
+    box-shadow: 28px 40px 1px #c253db
+}
+.about-hed{
+    background: -webkit-linear-gradient(#8e56fd, #eb7a98);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 44px;
+    font-weight: 800;
+}

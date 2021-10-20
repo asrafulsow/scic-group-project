@@ -1,0 +1,35 @@
+.carousel-area img{
+    height: 600px;
+    object-fit: cover;
+}
+.carousel-caption{
+    position: absolute;
+    right: 15%;
+    top: 30%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+}
+.carousel-caption h1{
+    font-size: 68px;
+    text-transform: uppercase;
+    font-weight: 700;
+    background: -webkit-linear-gradient(#8e56fd, #eb7a98);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.carousel-caption button{
+    background-image: linear-gradient(to right, #9258f9, #c253db, #dc58c0, #e767aa, #e8799b);
+    width: 180px;
+    text-align: center;
+    padding: 10px 0;
+    border: 1px solid transparent;
+    cursor: pointer;
+    border-radius: 25px;
+    transition: 0.5s all ease;
+    color: #fff;
+    text-decoration: none;
+}

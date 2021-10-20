@@ -1,0 +1,10 @@
+.services-single{
+    padding: 20px;
+    display: grid;
+    background: #f1f1f1;
+    /* margin: 0px; */
+    grid-gap: 7px;
+}
+.services-single button{
+    background-image: linear-gradient(to right, #9258f9, #c253db, #dc58c0, #e767aa, #e8799b);
+}
