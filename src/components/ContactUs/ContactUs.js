@@ -13,6 +13,7 @@ const ContactUs = () => {
                 <div className="container mt-5">
                     <div className="row">
                         <div className="contact-details col">
+                            {/* s */}
                             <h3>Ask how we can help you</h3>
                             <p className="mt-3">see our platform in action</p>
                             <h5 className="mt-3">Best Fitness Club</h5>

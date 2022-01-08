@@ -3,6 +3,7 @@ import './AboutUs.css'
 import aboutimg from '../../pic/img3.png';
 
 const AboutUs = () => {
+    // s
     return (
         <div>
             <div className="About-us">

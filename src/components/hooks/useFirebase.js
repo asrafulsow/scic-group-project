@@ -3,7 +3,7 @@ import { useEffect, useState } from "react";
 import initializeAuthentication from "../firebase/firebase.init";
 
 initializeAuthentication();
-
+// s
 const useFirebase = () =>{
     const [user, setUser] = useState({});
     const [isLoading, setIsLoading] = useState(true);

@@ -19,7 +19,7 @@ const Home = () => {
 
     },[])
 
-
+//  s
     return (
         <div>
             <div className="carousel-area">
